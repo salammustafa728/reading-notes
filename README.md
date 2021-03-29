@@ -19,6 +19,13 @@ The command line when You enter commands by typing them on the keyboard and feed
  there is a lot of command line you can use in terminal like this   ->      ls -l /home/ryan 
 ( ls ) Typically a command is always the first thing you type
 
+The Difference Between Text
+Editors and IDEs
+A text editor kind of gives away what it does in the title—it edits text
+An IDE (Integrated Development Environment) it is an editor, a file
+manager, a compiler, and a debugger all in one software package.
+
+
 Navigation: 
 The commands:
 - pwd which stands for Print Working Directory
