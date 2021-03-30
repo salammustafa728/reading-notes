@@ -1,7 +1,7 @@
-# reading-notes
+# Home page
 
 
-[Reading](reading.md)
+
 
 ***Tuesday 30-mar-2021 ***
 
@@ -11,9 +11,9 @@ My name is Salam Mustafa I'm 24, my major is computer sciene and I'm A programme
 
 >Table of contants.
 
-Tuesday                      | Reading notes for Tuesday, 5 reminders, 5 different featurs of markdown
+Tuesday                      | [Page1](reading.md)
 --------                     |---------
-Monday                       | Reading notes for Monday
+Monday                       | [Page2](reading2.md)
 -------                      |---------
     
 
