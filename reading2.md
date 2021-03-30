@@ -17,6 +17,9 @@ extensions available when you need them.
 In our devices we have text editors that are already installed like notepad in windows. And on Linux computers, each distribution will have its own text the editor already installed. And there is a software that you can install it from the internet like Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom,
 Brackets, and Sublime Text.
 
+
+
+
 **The command line** when You enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
  there is a lot of command line you can use in terminal like this   ->      ls -l /home/ryan 
 ( ls ) Typically a command is always the first thing you type
