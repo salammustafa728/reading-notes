@@ -1,9 +1,8 @@
-***Tuesday 30-mar-2021 ***
+Tuesday 30-mar-2021 
 
 [Home](README.md)
 
 
-***Tuesday 30-mar-2021 ***
 
 ```html
 <!DOCTYPE html>
