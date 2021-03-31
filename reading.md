@@ -5,7 +5,7 @@ Tuesday 30-mar-2021
 
 
 ```html
-<!DOCTYPE html>
+
 <html>
 
 <body>
