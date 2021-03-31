@@ -14,6 +14,7 @@ Tuesday                      | [Page1](reading.md) , [page3_lab-02a_reading](not
 --------                     |---------
 Monday                       | [Page2](reading2.md)
 -------                      |---------
+Wednesday                    | [page5_lab-03](readingwed.md)
     
 
 
