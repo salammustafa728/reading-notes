@@ -4,12 +4,14 @@ Tuesday 30-mar-2021
 
 :smiley: :heart:
 
-```html
 
 
 
 
 # **Growth mindset: **
+
+
+```html
 
 Growth mindset is the way that I give my self encouragement to think creativity and that everything I think about it will come true by working hard and commitment. also we should give ourselves a gift after any achivment that we reach like embrace or something that we like. that the way that I use.
 
