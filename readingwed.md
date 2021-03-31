@@ -16,10 +16,9 @@ The <article> it's a contianer for any section.
 The <aside> it may be in the article tag or outside, inside the article it should contain information about what is inside the artical, and when it's outside the article it acts as a container for content that is related to the entire page.
 The <section> element it grouped the elements that is inside it.
 The <hgroup> we can group the element from h1 to h6 inside it.
-The <figure> <figcaption>, <figure> used 
-to contain any content that is referenced from the main flow of an article (not just images) and it contain <figcaption> also.
+The <figure> <figcaption>, <figure> used to contain any content that is referenced from the main flow of an article (not just images) and it contain <figcaption> also.
 The <div> there is a new elemants that take it's place and it's grouped the elemant togther.
-The  <a>  to add a link to the website.
+The  '<a>'  to add a link to the website.
 
 The chapter 1: talk about structure
 If you want to make web page you want to know how to structure documents, html describe the web structure, how to add tags to your document, I mentioned the tags above. The html page is a text document, also tags come in pairs oppening tag and closing tag and inside it we put the content, also oppening tag can have attributes, attributes have a name and a value. 
