@@ -6,7 +6,7 @@ Wednesday 31-3-2021 reading
 
 If you want to make web page you want to know how to structure documents, html describe the web structure, how to add tags to your document. The html page is a text document, also tags come in pairs oppening tag and closing tag and inside it we put the content, also oppening tag can have attributes, attributes have a name and a value. 
 
-![Html-structure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcsveda.com%2Fstructure-and-layout-of-an-html-program%2F&psig=AOvVaw0VOluxPxikbnKCvoKWL_p6&ust=1617353039077000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOibrd7T3O8CFQAAAAAdAAAAABAD)
+![Html-structure](https://csveda.com/wp-content/uploads/2020/02/Code1.png)
 
 *Html5* it define a structure of apage using new sets of elemants.
 The div element replace to hesder, main and footer. 
@@ -20,11 +20,11 @@ The div element replace to hesder, main and footer.
 * *The <div>* there is a new elemants that take it's place and it's grouped the elemant togther.
 * *The  a <>*  to add a link to the website.
 
-![html-pagetages](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jaimebutler.ch%2Flearning-the-basic-html-structure%2F&psig=AOvVaw0VOluxPxikbnKCvoKWL_p6&ust=1617353039077000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOibrd7T3O8CFQAAAAAdAAAAABAJ)
+![html-pagetages](https://stuyhsdesign.files.wordpress.com/2015/09/basic-structure.png)
 
-![htmlStructure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D90kC1YLNF3U&psig=AOvVaw0VOluxPxikbnKCvoKWL_p6&ust=1617353039077000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOibrd7T3O8CFQAAAAAdAAAAABAP)
+![htmlStructure](http://www.jaimebutler.ch/jb-edit/wp-content/uploads/2014/07/Basic-HTML.png)
 
-![pageStructure](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.optimizesmart.com%2Fadvanced-google-universal-analytics-tracking-beginners-guide%2F&psig=AOvVaw1hdch8cXQNuvsSx7Q1YQID&ust=1617353279293000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCA09TU3O8CFQAAAAAdAAAAABAD)
+![pageStructure](https://www.optimizesmart.com/wp-content/uploads/2014/05/HTML-DOM-Tree.jpg)
 
 In the end you should know about how to understand your audience needs and what attract them to your website by giving them the information that they searched about in an ordered way also you can use design theory to know how to make the visitor of your website achive thier goals.
 First you want to ask your self some question about how will be your website visitor, like What is the age range of your target audience?
