@@ -1,5 +1,8 @@
-#JavaScript 
+# JavaScript 
+
 **JavaScript it makes the webpages interactive, interesting, and user-friendly.**
+
+
 ![Javascript](https://4.bp.blogspot.com/-PQHNOWFNS9o/XAkNsyPerCI/AAAAAAAALks/ONXxkKH3lRwskA3cfiqPa-cGKlt8u-l6wCLcBGAs/s1600/javascript.jpg)
 
 Ascript is a series of instruction that you can followto achieve a goal. You can use the *javascript* to make your pages interactive by modifiying the content and markup used in the webpage while it is being viewed in the browser. And you can use *js* to add or select any attribute, element or text in a html page or remove them.
