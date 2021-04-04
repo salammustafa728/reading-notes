@@ -43,7 +43,8 @@ And based on *if/else* if the condition met then your code will excutes one or m
  
  ![switch](https://i.ytimg.com/vi/a9Q765OAKT4/maxresdefault.jpg)
 
-**Loops** it used to repeatedly run a block of code until a certain condition is met.
+# **Loops** 
+It used to repeatedly run a block of code until a certain condition is met.
 * **For** loop:  repeats until a specified condition evaluates to false
 
 ![forloop](https://www.homeandlearn.co.uk/javascript/images/chapter_3/for_loops.gif)
