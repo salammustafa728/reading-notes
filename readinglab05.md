@@ -1,3 +1,5 @@
+# Functions, Comparison Operators, Conditinal Statements and Loops.
+
 # Functions
 
 ![jsFunction](https://miro.medium.com/max/732/1*DBg85yAZexDLyxr6G1rAiQ.png)
@@ -14,7 +16,8 @@
 ![Array](https://www.encodedna.com/javascript/remove-empty-array-slots-using-flat-method-javascript.png)
 
 
-**Comparison Operators** you can use it to comparing value to what it should be in a situation.
+# **Comparison Operators** 
+You can use it to comparing value to what it should be in a situation.
 * == It's means equal to it's comparing two value to see if they are the same.
 * === Strict equal to: to check two values are the same data type and the value are the same.
   ![equalTo](https://i.stack.imgur.com/5ttlR.png)
