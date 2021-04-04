@@ -57,3 +57,7 @@ And based on *if/else* if the condition met then your code will excutes one or m
 * **Do/While** loop:creates a loop that executes a block of code once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.  
 
 ![do/whileloop](https://www.toolsqa.com/wp-content/gallery/javascript/doWhile-loop.png)
+
+
+
+reading notes 4-4-2021 Sunday , [Home](README.md)
