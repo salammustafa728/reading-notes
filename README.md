@@ -19,7 +19,8 @@ Wednesday                    | [page5_lab-03](readingwed.md)
 Thursday                     | [page6_lab-04-Read-Programming with JavaScrip](readingthu)
 -------                      |---------
 Sunday                       | [page7_lab-05-Operators and Loops](readinglab05.md)
-    
+------                       |---------
+Monday                       |[page_8_lab-06-Design web pages with CSS](readinglab06.md)    
 
 
 
