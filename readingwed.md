@@ -17,8 +17,8 @@ The div element replace to hesder, main and footer.
 * *The <section>* element it grouped the elements that is inside it.
 * *The <hgroup>* we can group the element from h1 to h6 inside it.
 * *The <figure> <figcaption>* , <figure> used to contain any content that is referenced from the main flow of an article (not just images) and it contain <figcaption> also.
-* *The <div>* there is a new elemants that take it's place and it's grouped the elemant togther.
-* *The  a <>*  to add a link to the website.
+* *`The <div>`* there is a new elemants that take it's place and it's grouped the elemant togther.
+* The`<a>` to add a link to the website.
 
 ![html-pagetages](https://stuyhsdesign.files.wordpress.com/2015/09/basic-structure.png)
 

@@ -5,7 +5,7 @@
 
 ![Javascript](https://4.bp.blogspot.com/-PQHNOWFNS9o/XAkNsyPerCI/AAAAAAAALks/ONXxkKH3lRwskA3cfiqPa-cGKlt8u-l6wCLcBGAs/s1600/javascript.jpg)
 
-Ascript is a series of instruction that you can followto achieve a goal. You can use the *javascript* to make your pages interactive by modifiying the content and markup used in the webpage while it is being viewed in the browser. And you can use *js* to add or select any attribute, element or text in a html page or remove them.
+A script is a series of instruction that you can followto achieve a goal. You can use the *javascript* to make your pages interactive by modifiying the content and markup used in the webpage while it is being viewed in the browser. And you can use *js* to add or select any attribute, element or text in a html page or remove them.
 * you can select the text inside all h1 element.
 * add paragraph after the first h1 element.
 ![jscode](https://javiniguez.com/wp-content/uploads/2019/07/que-es-javascript.jpg)
