@@ -180,8 +180,7 @@ Each property has a name and a value.
 
 **EVENT** code that run when an event occurs.
 
-**Methods** represent things people need to do with objects. The code for a method can contain lots of
-instructions that together represent one task.
+**Methods** represent things people need to do with objects. The code for a method can contain lots of instructions that together represent one task.
 
 >When you use JavaScript in the browser, The interpreter takes your
 instructions and translates them into instructions the browser can use to achieve the tasks you want it to perform

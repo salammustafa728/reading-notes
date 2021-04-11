@@ -28,7 +28,7 @@ Sunday                       | [page7_lab-05-Operators and Loops](readinglab05.m
 ------                       |---------
 Monday                       |[page_8_lab-06-Design web pages with CSS](readinglab06.md)    
 
-Tuesday 30-mar-2021
+
 
 __________________________________________________
 
@@ -42,7 +42,7 @@ Day                          | Page
 -----                        | ---------
 Friday                       |[Read:01-Introductory-HTML-and-JavaScript](class-01.md)
 -----                        |----------
-Sunday                       |----------
+Sunday                       |[Read:02-HTML-Text-CSS-Introduction-and-Basic-JavaScript-Instructions](class-02.md)
 -----                        | ---------
 -----                        | ---------
 -----                        |----------
