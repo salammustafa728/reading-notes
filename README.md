@@ -3,11 +3,15 @@
 ![welcomeimg](https://thumbs.dreamstime.com/b/rustic-welcome-sign-red-flower-hanging-distressed-antique-green-door-weathered-rose-bud-teal-blue-wooden-fence-43915475.jpg)
    
 
-# Salam Mustafa Reading Notes
+# Salam Mustafa Reading Notes 201 and 102
 
 **My name is Salam Mustafa I'm 24, my major is computer sciene and I'm A Web developer. [MyGithub](https://github.com/salammustafa728)**
 
->Table of reading-notes for 102 class.
+
+# Code 102 Reading Notes
+
+
+>Table of reading-notes for 102 classes.
 
 
 Day                          | Page
@@ -28,9 +32,27 @@ Tuesday 30-mar-2021
 
 __________________________________________________
 
-> Table of reading-notes for 201 class.
+# Code 201 Reading Notes
+
+
+> Table of reading-notes for 201 classes.
 
 
 Day                          | Page
 -----                        | ---------
 Friday                       |[Read:01-Introductory-HTML-and-JavaScript](class-01.md)
+-----                        |----------
+Sunday                       |----------
+-----                        | ---------
+-----                        | ---------
+-----                        |----------
+-----                        | ---------
+-----                        | ---------
+-----                        |----------
+-----                        |----------
+-----                        | ---------
+-----                        | ---------
+-----                        |----------
+-----                        | ---------
+-----                        | ---------
+-----                        |----------
