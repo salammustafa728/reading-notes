@@ -1,10 +1,11 @@
 # Basics of HTML, CSS & JS
-_____________________________________________
+
 
 # HTML
 
+
 **The Basic of HTML page structure**
-_____________________________________
+
 
 ![htmltags](https://1.bp.blogspot.com/-wVgenPKD0uY/VtkzZZNAStI/AAAAAAAAH9Q/QfufBVUNEiQ/s1600/htmltags.jpg)
 
@@ -33,14 +34,14 @@ formulas such as H20.
 to add a line break inside the middle of a paragraph you can use the line break tag `<br />`.
 And you can use `<hr />` to create a break between
 themes. like such as a change of topic in a book.
-_______________________________________________
+
 
 ***Visual Editors & Their Code views***
 
 **Visual Editors** It's a word processors you can use it to change the type of font bold or italic ,line breaks, horizontal rules or Headings 
 
 **Code views:** It show you the code created by the visual editor.
-__________________________________________
+
 
 **Semantic Markup** 
 It's not effect the structure but add extra information to the pages.
@@ -69,11 +70,11 @@ content has strong importance. The content will be in bold style.
 
 ![textExample](https://www.w3schools.com/html/img_notepad.png)
 
->HTML elements are used to describe the structure of the page.
+> HTML elements are used to describe the structure of the page.
 
-_______________________________________
 
-# ***CSS***
+
+# CSS
 
 CSS is the presentation of your work. The design to your web pages. It's control how to color texts, fonts and backgroung also how to control the position of the elements on the screen.
 
@@ -96,7 +97,7 @@ or color properties on the `<body>` element, they will apply to most child eleme
 because the value of the font-family property is
 inherited by child elements.
 
-___________________________________________
+
 
 # JavaScript
 
@@ -155,3 +156,5 @@ You can use it to comparing value to what it should be in a situation.
 
 * !== Strict not equal to to check two values are the same data type and the value are not the same.
 
+
+[Home](README.md)
