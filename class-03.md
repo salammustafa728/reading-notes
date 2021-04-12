@@ -1,6 +1,6 @@
 # Readings : HTML Lists, Control Flow with JS, and the CSS Box Model
 
-**HTML provise three type of lists**
+**HTML provide three type of lists**
 
 * `<ol>` Ordered lists: each item in this list numbered. And each item in the list is placed
 between an opening `<li>` tag and a closing `</li>` tag.
