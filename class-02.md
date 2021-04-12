@@ -145,7 +145,7 @@ And based on *if/else* if the condition met then your code will excutes one or m
  
  ![switch](https://i.ytimg.com/vi/a9Q765OAKT4/maxresdefault.jpg)
 
- # **Comparison Operators** 
+ **Comparison Operators** 
 You can use it to comparing value to what it should be in a situation.
 * == It's means equal to it's comparing two value to see if they are the same.
 * === Strict equal to: to check two values are the same data type and the value are the same.
