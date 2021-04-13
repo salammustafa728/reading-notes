@@ -83,5 +83,18 @@ OBJECTS: n object that have a series of varaibles and function that represent so
 
 ![jsfunction](https://miro.medium.com/max/732/1*DBg85yAZexDLyxr6G1rAiQ.png)
 
+**pair programming** 
+pair programming involve two two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the one whose only his hands are on the keyboard. The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
+
+Pair programming have skills:
+- Greater efficiency
+- Engaged collaboration
+- Social skills
+- Job interview readiness
+- Work environment readiness
+- Learning from fellow students
+
+
 [Home](README.md)
+
 
