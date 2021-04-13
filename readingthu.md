@@ -49,7 +49,7 @@ It's helpful when you don't know the number of item the list will contain.
       * array constructor: This uses the new
         keyword followed by Array();The values are then specified in parentheses (not square brackets).
   examples of arrays: 
-  -   var colors;
+-   var colors;
        colors ['white', 'black', ' custom '];
 - var el document.getElementByld('col ors');
        el . textContent = col ors[O];

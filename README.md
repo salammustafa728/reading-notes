@@ -46,7 +46,7 @@ Sunday                       |[Read:02-HTML-Text-CSS-Introduction-and-Basic-Java
 -----                        | ---------
 Monday                       | [Read-03-HTML-Lists-Control-Flow-with-JS-and-the-CSS-Box-Model](class-03.md)
 -----                        |----------
------                        | ---------
+Tuesday                      | [Readings:HTML-Links-JS-Functions-and-Intro-to-CS-Layout](class-04.md)
 -----                        | ---------
 -----                        |----------
 -----                        |----------
