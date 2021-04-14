@@ -22,7 +22,7 @@ Monday                       | [Page2](reading2.md)
 -------                      |---------
 Wednesday                    | [page5_lab-03](readingwed.md)
 -------                      |---------
-Thursday                     | [page6_lab-04-Read-Programming with JavaScrip](readingthu)
+Thursday                     | [page6_lab-04-Read-Programming with JavaScrip](readingthu.md)
 -------                      |---------
 Sunday                       | [page7_lab-05-Operators and Loops](readinglab05.md)
 ------                       |---------
@@ -48,7 +48,7 @@ Monday                       | [Read-03-HTML-Lists-Control-Flow-with-JS-and-the-
 -----                        |----------
 Tuesday                      | [Readings:HTML-Links-JS-Functions-and-Intro-to-CS-Layout](class-04.md)
 -----                        | ---------
------                        |----------
+Wednesday                    |[Readings-Images-Color-Text](class-05.md)
 -----                        |----------
 -----                        | ---------
 -----                        | ---------
