@@ -35,72 +35,42 @@ created by any element on a page.
 
 >To reduce the number of images your browser has to load, you can create image sprites.
 
-New HTML5 Layout element: in HTML there is a new html tag like `<header> <footer>` The main header or footer that appears at the top or bottom of every page on the site. And `<nav>` ,`<article>`,`<aside>`,`<section>`,`<hgroup>`,`<figure> <figcaption>`.
 
-HTML5 allows web page authors to place an `<a>` element around a block level element that
-contains child elements. This allows you to turn an entire block into a link.
+**Color**
 
-**Example of HTML Layout **
-![htmlLayout](https://lh3.googleusercontent.com/proxy/PaXGSlScHnBtLejoqJj5aHgX85F2czC4iY4H_GzbCIoEhQzOi_OwAWwb7vAeZWU_eUFujXtz7M0dqRp7_5Zensw3nL3c8JSveOg8j73bcglJAwQ4KA)
+**color it bring your page a life**
 
->The new HTML5 elements i XX ndicate the purpose of different parts of a web page and help to describe its structure.
+**Foreground-color** it specify the text color
+there is three ways to specify the colors:
+* **RGB Values** express color in which red, green and blue are used to make it up. it' range from 0-255
+* **Hex Codes** it's six-digit code begin with #
+ tag then six mix number and digts. 
+* **Color-Names** you can use the color name, there is a 147 predifind color in *css* .
 
->The new elements provide clearer code (compared
-with using multiple `<div>` elements).
+![color](https://mdn.mozillademos.org/files/9461/css-declaration-small.png)
 
-**Understand Your Audience**
-And you should know about how to understand your audience needs and what attract them to your website by giving them the information that they searched about in an ordered way also you can use design theory to know how to make the visitor of your website achive thier goals.
-First you want to ask your self some question about how will be your website visitor, like What is the age range of your target audience?
-secound you need to consider why they coming by knowing the key motivations and the specific goals. Third you should write the informatio they want to reach from the website. Four you should organize the information into sections or page, to know what the information should be in the page you can use a technique 
-called card sorting. also you should make a wireframe for your website before you make it, a wireframe is a simple sketch of the key 
-information that needs to go on each page of a 
-site. also Visual hierarchy helps visitors understand what you are trying to tell them. And you can differentiate between pieces of information using size, color, and style. In addition you can use grouping and similarity to help simplify the information you present.
+* *Hue* it's how the color have saturation and brightness. It's values 0 t0 360.
+* *Saturation* it's the amount of gray in the color. It represent as 100% to 0% is the gray shade. 
+* *Brightness* it's refer to how much black in the color. 
+* *Contrast* it's the space between the background and the foreground and it's make the text more readable for the user.
+* *Opacity* to specify the opacity of an element and any of it's child element. it's value from 0.0 to 1.0.
+* *HSL* : using the hue, saturation and lightness values.
+* *ALPHA* it's expressed number between 0 & 1.0
+![colors](https://static.javatpoint.com/csspages/images/how-to-change-background-color-in-css1.png)
 
-![siteMap](https://i.pinimg.com/originals/1c/c5/f4/1cc5f4ec000969f11eedf4dbe0f8c9d8.png)
+![color](https://csharpcorner.azureedge.net/UploadFile/219d4d/basics-of-css-part-1/Images/syntax%20css.png)
 
->Site maps allow you to plan the structure of a site.
+**Text**
 
+The properties that allow you to control the appearance of text can be split intotwo groups:
+* Those that directly affect t ●● he font and its appearance.
+* Those that would have the same effect on text no matter what font you were using (including the color of text and the spacing between words and letters).
 
-**WireFrames** 
-is a simple sketch of the key information that needs to go on each page of a site.
+![text](https://agendamahala.com/ckfinder/userfiles/images/CSS-exemplo.png)
 
-![wirframe](https://upload.wikimedia.org/wikipedia/commons/4/47/Profilewireframe.png)
+![](https://media.geeksforgeeks.org/wp-content/uploads/textalign.png)
 
-Wireframes allow you to organize the information that will need to go on each page. 
-
-You can use grouping and similarity to help simplify the information you present.
-
-**grouping and Similarity** making sense of a design, you should tend to organize visual elements into groups.Here are some ways this can be achieved: 
-* Proximity: When several items are placed close together, they are perceived as more related than
-items that are placed further apart.
-
-* Closure: When faced with a complicated
-arrangement of items, we will often look for a single or recognisable pattern or form.
-* Continuance: When elements are placed in a line or a curve then they are perceived to be more related than those that are not following the same direction.
-
-**Designing Navigation** This help helps people find where they want to go, but also helps them understand what your site is about.
-
-Good navigation tends to follow these principles:
-* Concise: Ideally, the navigation should be quick and easy to read.
-*  Clear: Users should be able to predict
-the kind of information that they will find on the page before clicking on the link.
-* Selective: The primary navigation should only reflect the sections or content of the site.
-
->You can differentiate between pieces of information using size, color, and style.
-
->Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
-
-**Search Engine Op timization (SEO )**
-
-SEO is a huge topic and several books have been written on the subject. And is the practice of trying to help your site appear nearer the top of search engine results.
-
-![seo](https://wordstream-files-prod.s3.amazonaws.com/s3fs-public/styles/simple_image/public/images/media/images/Google-SEO-Guide-Search-Results.jpg?0OCJCKzM6PGQH4_b0bCNRvWUu4R7HcG3&itok=y83nf0UD)
-
-**FT P & Third Party Tools** To transfer your code and images from your computer to your hosting company, you use something known as File Transfer Protocol.
-
-There are many FTP programs that offer a simple interface that shows you the files on your computer alongside.
-
->FTP programs allow you to transfer files from your local computer to your web server.
+![text](https://image.slidesharecdn.com/webengineeringlec05-introductiontocss-151015055658-lva1-app6892/95/web-engineering-introduction-to-css-35-638.jpg?cb=1444888705)
 
 **JPEG vs PNG vs GIF**
 - Use JPEG format for the images that have natural scene or photograph where variation in colour and intensity is smooth.
