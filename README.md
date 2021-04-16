@@ -50,7 +50,7 @@ Tuesday                      | [Readings:HTML-Links-JS-Functions-and-Intro-to-CS
 -----                        | ---------
 Wednesday                    |[Readings-Images-Color-Text](class-05.md)
 -----                        |----------
------                        | ---------
+Friday                       | [Read:06-JS Object-Literals-The-DOM](class-06.md)
 -----                        | ---------
 -----                        |----------
 -----                        | ---------
