@@ -78,6 +78,15 @@ Removing element from the Dom tree by using the The removeChild() method it take
 By using The setAttribute() method method allows you to update the value of any attribute.
 And you can remove any arrtibut by using get ElementByld() method is used to retrieve the first item from this list.
 
+# Problem Domain
+
+**Understanding The Problem Domain Is The Hardest Part Of Programming**
+
+The problem domain gives us a description about what the project is about, and its hard to understand because sometimes the description not be clear or we also often not given complete information about the problem, so we don’t even have the information we need to understand it.
+And it's easy if you understand the problem domain.
+
+If you want to understand the problem domain you should make it easier by divided it to parts and start doing the it part by part. And you can be  sitting down and talking to customers or business people who know about the problem domain to know more about it.
+
 
 
 
