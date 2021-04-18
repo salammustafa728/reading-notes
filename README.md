@@ -52,7 +52,7 @@ Wednesday                    |[Readings-Images-Color-Text](class-05.md)
 -----                        |----------
 Friday                       | [Read:06-JS Object-Literals-The-DOM](class-06.md)
 -----                        | ---------
------                        |----------
+Sunday                       |[Read:07-HTML-Tables-JS-Constructor-Functions](class-07.md)
 -----                        | ---------
 -----                        | ---------
 -----                        |----------
