@@ -34,7 +34,7 @@ Building Blocks: CSS treats each HTML element as if it is in its own box. This b
 
 **Containing Elements** If one block-level element sits inside another block-level element then the outer box is known as the containing or parent element.       
 
-**Controll ing the Position of El ements**
+**Controll ing the Position of Elements**
 In CSS we have positioning schemes that allow you to control the layout of a page like: normal flow, relative positioning, and absolute positioning. You specify the positioning scheme using the position property in CSS. You can also float elements using the float property.
 
 * Normal flow Every block-level element appears on a new line, causing each item to appear lower down the page than the previous one.
