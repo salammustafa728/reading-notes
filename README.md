@@ -56,3 +56,4 @@ Sunday                       |[Read:07-HTML-Tables-JS-Constructor-Functions](cla
 -----                        | ---------
 Monday                       | [Readings:CSS-Layout](class08.md)
 -----                        |----------
+Tuesday                      | [Readings:Forms-and-JS-Events](class09.md)
