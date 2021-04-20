@@ -50,6 +50,10 @@ You can make style for the text input using css and changing the (font,color,bac
 
 ![styleForms](https://uicookies.com/wp-content/uploads/2018/03/contact-form-4-free-html-contact-forms.jpg)
 
+List-style: We have a lot of property to style the listes. like (list-style-position,list-style-image,list-style-type) to make it more attractive.
+
+Tables property: We have a lot of property to control or styling the tables like(width,padding,text-transform,letter-spacing, font-size) 
+
 
 #  JS Events
 
