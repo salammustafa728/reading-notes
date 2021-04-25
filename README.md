@@ -61,3 +61,5 @@ Tuesday                      | [Readings:Forms-and-JS-Events](class09.md)
 Wednesday                    |[Readings:Debugging](class10.md)
 -----                        |----------
 Saturday                     |[Readings:Audio-Video-Images](class11.md)
+-----                        |----------
+Sunday                       |[Readings-Chart-js-Canvas](class12.md)
