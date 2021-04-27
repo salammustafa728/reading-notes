@@ -65,3 +65,5 @@ Saturday                     |[Readings:Audio-Video-Images](class11.md)
 Sunday                       |[Readings-Chart-js-Canvas](class12.md)
 -----                        |----------
 Monday                       |[Read:13-Local-Storage](class13.md)
+-----                        |-----------
+Tuesday                      |[Read:14a-CSS-Transforms-Transitions-and-Animations](class13a.md)
