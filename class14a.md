@@ -1,9 +1,5 @@
 # Read: 14a - CSS Transforms, Transitions, and Animations
 
-We read about hw to build a good team from Rozovsky 
-she focus first on how build perfect team, the war on meetings, the case for buloding hiring, failiure to lunch, the good jobs gamble,rethinking the work-life equation, the rise of white-collar automation, the post-cubicle office and The New Dream Jobs.
-
-And described the social sensitivity it is about how to show someone photos of people’s eyes and ask him or her to describe what the people are thinking or feeling, to know if the team cares about thire colleagues feelings. because She wanted her teammate to be sensitive to what she was feeling.And She had graphs and charts telling her that she shouldn’t just let it go.
 
 **Transforms** It's a way to position and alter elements. It has two different settings:two-dimensional and three-dimensional.
 
