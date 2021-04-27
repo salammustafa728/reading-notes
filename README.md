@@ -67,3 +67,5 @@ Sunday                       |[Readings-Chart-js-Canvas](class12.md)
 Monday                       |[Read:13-Local-Storage](class13.md)
 -----                        |-----------
 Tuesday                      |[Read:14a-CSS-Transforms-Transitions-and-Animations](class14a.md)
+-----                        |------------
+Tuesday                      |[Read:-14b-What-Google-Learned-About-Teams](class14b.md)
