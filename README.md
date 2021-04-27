@@ -66,4 +66,4 @@ Sunday                       |[Readings-Chart-js-Canvas](class12.md)
 -----                        |----------
 Monday                       |[Read:13-Local-Storage](class13.md)
 -----                        |-----------
-Tuesday                      |[Read:14a-CSS-Transforms-Transitions-and-Animations](class13a.md)
+Tuesday                      |[Read:14a-CSS-Transforms-Transitions-and-Animations](class14a.md)
