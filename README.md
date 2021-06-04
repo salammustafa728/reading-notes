@@ -74,6 +74,12 @@ Tuesday                      |[Read:-14b-What-Google-Learned-About-Teams](class1
 
 # Code 301 - Intermediate Software Development
 
+> Table of reading-notes for 301 classes.
+
+Day                        | Page
+------                     | ------
+Friday                     | [Things I want to know more about](class01-301.md)
+------                     |-----
 
 
 # Code 401 - Advanced Software Development
