@@ -78,7 +78,7 @@ Tuesday                      |[Read:-14b-What-Google-Learned-About-Teams](class1
 
 Day                        | Page
 ------                     | ------
-Friday                     | [Things I want to know more about](class01-301.md)
+Friday                     | [Things I want to know more about Component Based Architecture and Props](class01-301.md)
 ------                     |-----
 Sunday                     | [Things I want to know more about React lifecycle, React Bootstrat Documentation, Netlify and React State Vs Props.](class02-301.md)
 ------                     |-------
