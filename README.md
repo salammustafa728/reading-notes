@@ -82,7 +82,8 @@ Friday                     | [Things I want to know more about Component Based A
 ------                     |-----
 Sunday                     | [Things I want to know more about React lifecycle, React Bootstrat Documentation, Netlify and React State Vs Props.](class02-301.md)
 ------                     |-------
-
+Monday                     | [Things I want to know more about React Docs - lists and keys, The Spread Operator and How to Pass Functions Between Components ](class03-301.md)
+------                     |-------
 
 
 # Code 401 - Advanced Software Development
