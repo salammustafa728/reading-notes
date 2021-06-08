@@ -84,6 +84,8 @@ Sunday                     | [Things I want to know more about React lifecycle, 
 ------                     |-------
 Monday                     | [Things I want to know more about React Docs - lists and keys, The Spread Operator and How to Pass Functions Between Components ](class03-301.md)
 ------                     |-------
+Tuesday                    | [Things I want to know more about React Docs - Forms and The Conditional (Ternary) Operator Explained](class04-301.md) 
+------                     |-------
 
 
 # Code 401 - Advanced Software Development
