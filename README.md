@@ -86,6 +86,10 @@ Monday                     | [Things I want to know more about React Docs - list
 ------                     |-------
 Tuesday                    | [Things I want to know more about React Docs - Forms and The Conditional (Ternary) Operator Explained](class04-301.md) 
 ------                     |-------
+Wednesday                  |[Things I want to know more about React Docs - thinking in React](class05-301.md)
+-----                      |--------
+
+
 
 
 # Code 401 - Advanced Software Development
