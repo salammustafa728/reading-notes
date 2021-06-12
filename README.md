@@ -88,7 +88,8 @@ Tuesday                    | [Things I want to know more about React Docs - Form
 ------                     |-------
 Wednesday                  |[Things I want to know more about React Docs - thinking in React](class05-301.md)
 -----                      |--------
-
+saturday                   | [Things I want to know more about Node.js and Pair Programming](class06-301.md)
+-----                      | --------
 
 
 
