@@ -90,7 +90,7 @@ Wednesday                  |[Things I want to know more about React Docs - think
 -----                      |--------
 saturday                   | [Things I want to know more about Node.js and Pair Programming](class06-301.md)
 -----                      | --------
-
+Sunday                     | [Things I want to know more about What Google Learned From Its Quest to Build the Perfect Team and  REST and API Keys](class07-301.md)
 
 
 # Code 401 - Advanced Software Development
