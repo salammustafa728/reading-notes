@@ -96,6 +96,8 @@ Monday                     | [Things I want to know more about REST ](class08-30
 -----                      | -----
 Tuesday                    | [Things I want to know more about Functional Programming Concepts and Node JS](class09-301.md)
 -----                      | ------
+wednesday                  | [Things I want to know more about JavaScript Call Stack and JavaScript error messages](class10-301.md)
+-----                      | ------
 
 
 # Code 401 - Advanced Software Development
