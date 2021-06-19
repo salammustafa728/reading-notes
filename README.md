@@ -98,6 +98,8 @@ Tuesday                    | [Things I want to know more about Functional Progra
 -----                      | ------
 wednesday                  | [Things I want to know more about JavaScript Call Stack and JavaScript error messages](class10-301.md)
 -----                      | ------
+Saturday                   | [Things I want to know more about OAuth, Authorization and Authentication flows](class11-301.md)
+----                       |-----
 
 
 # Code 401 - Advanced Software Development
