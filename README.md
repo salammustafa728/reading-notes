@@ -101,5 +101,6 @@ wednesday                  | [Things I want to know more about JavaScript Call S
 Saturday                   | [Things I want to know more about OAuth, Authorization and Authentication flows](class11-301.md)
 ----                       |-----
 Sunday                     | [Things I want to know more about nosql vs sql](class12-301.md)
-
+----                       | ------
+Monday                     | [Things I want to know more about REST Methods and Build A REST API With Node.js, Express, & MongoDB - Quick](class13-301.md)
 # Code 401 - Advanced Software Development
