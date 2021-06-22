@@ -103,6 +103,10 @@ Saturday                   | [Things I want to know more about OAuth, Authorizat
 Sunday                     | [Things I want to know more about nosql vs sql](class12-301.md)
 ----                       | ------
 Monday                     | [Things I want to know more about REST Methods and Build A REST API With Node.js, Express, & MongoDB - Quick](class13-301.md)
+----                       | -------
+Tuseday                    | [Things I want to know more about Diversity & Inclusion in the Tech Industry](class14-301.md)
+-----                      | --------
+
 
 
 
